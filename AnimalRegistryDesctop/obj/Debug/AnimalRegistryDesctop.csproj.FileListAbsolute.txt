@@ -1,0 +1,14 @@
+D:\Обучение\02. Первая четверть 1\Итоговый проект\7\AnimalRegistre\AnimalRegistryDesctop\bin\Debug\AnimalRegistryDesctop.exe.config
+D:\Обучение\02. Первая четверть 1\Итоговый проект\7\AnimalRegistre\AnimalRegistryDesctop\bin\Debug\AnimalRegistryDesctop.exe
+D:\Обучение\02. Первая четверть 1\Итоговый проект\7\AnimalRegistre\AnimalRegistryDesctop\bin\Debug\AnimalRegistryDesctop.pdb
+D:\Обучение\02. Первая четверть 1\Итоговый проект\7\AnimalRegistre\AnimalRegistryDesctop\obj\Debug\AnimalRegistryDesctop.csproj.AssemblyReference.cache
+D:\Обучение\02. Первая четверть 1\Итоговый проект\7\AnimalRegistre\AnimalRegistryDesctop\obj\Debug\AnimalRegistryDesctop.csproj.SuggestedBindingRedirects.cache
+D:\Обучение\02. Первая четверть 1\Итоговый проект\7\AnimalRegistre\AnimalRegistryDesctop\obj\Debug\AnimalRegistryDesctop.Properties.Resources.resources
+D:\Обучение\02. Первая четверть 1\Итоговый проект\7\AnimalRegistre\AnimalRegistryDesctop\obj\Debug\AnimalRegistryDesctop.csproj.GenerateResource.cache
+D:\Обучение\02. Первая четверть 1\Итоговый проект\7\AnimalRegistre\AnimalRegistryDesctop\obj\Debug\AnimalRegistryDesctop.csproj.CoreCompileInputs.cache
+D:\Обучение\02. Первая четверть 1\Итоговый проект\7\AnimalRegistre\AnimalRegistryDesctop\obj\Debug\AnimalRegistryDesctop.exe
+D:\Обучение\02. Первая четверть 1\Итоговый проект\7\AnimalRegistre\AnimalRegistryDesctop\obj\Debug\AnimalRegistryDesctop.pdb
+D:\Обучение\02. Первая четверть 1\Итоговый проект\7\AnimalRegistre\AnimalRegistryDesctop\obj\Debug\AnimalRegistryDesctop.Form1.resources
+D:\Обучение\02. Первая четверть 1\Итоговый проект\7\AnimalRegistre\AnimalRegistryDesctop\bin\Debug\Newtonsoft.Json.dll
+D:\Обучение\02. Первая четверть 1\Итоговый проект\7\AnimalRegistre\AnimalRegistryDesctop\bin\Debug\Newtonsoft.Json.xml
+D:\Обучение\02. Первая четверть 1\Итоговый проект\7\AnimalRegistre\AnimalRegistryDesctop\obj\Debug\AnimalRegistryDesctop.csproj.CopyComplete
